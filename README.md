@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+##### Hi there 👋
+Lakshmi Prasanna Jalla
+=========
+###About me
+> I am a fresher looking for an opportunity to enhance my knowledge and skills and make myself and company benefical and successful.
+> 
 
 <!--
 **lakshmiprasannajalla/lakshmiprasannajalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
