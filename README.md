@@ -8,8 +8,7 @@ Lakshmi Prasanna Jalla
 
 [linkedin](https://www.linkedin.com/in/jalla-lakshmi-prasanna/)
 [github](https://github.com/lakshmiprasannajalla/lakshmiprasannajalla/edit/main/README.md)
-
-###About me
+###About Me
 > I am a fresher looking for an opportunity to enhance my knowledge and skills and make myself and company benefical and successful.
 > 
 ### Work Experience
