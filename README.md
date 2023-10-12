@@ -3,7 +3,7 @@
 >
 Lakshmi Prasanna Jalla
 =========
-+[profile](https://C:\Users\laksh\Downloads\profile.jpg)
++ [profile](https://C:\Users\laksh\Downloads\profile.jpg)
 ### Digital Presence
 
 + [linkedin](https://www.linkedin.com/in/jalla-lakshmi-prasanna/)
