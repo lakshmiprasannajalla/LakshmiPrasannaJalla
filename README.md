@@ -2,10 +2,19 @@
 ##### Hi there 👋
 >
 Lakshmi Prasanna Jalla
-+[profile](https://C:\Users\laksh\Downloads\profile.jpg)
 =========
++[profile](https://C:\Users\laksh\Downloads\profile.jpg)
+### Digital Presence
++[linkedin](https://www.linkedin.com/in/jalla-lakshmi-prasanna/)
++[github](https://github.com/lakshmiprasannajalla/lakshmiprasannajalla/edit/main/README.md)
+
 ###About me
 > I am a fresher looking for an opportunity to enhance my knowledge and skills and make myself and company benefical and successful.
+> 
+### Work Experience
+> Worked as an intern at Lernx for the role Human Resource Manager for a month.
+> Eventhough the duration of the internship is less it helps me alot to gain knowledege in different areas like Managing the team, Communicating in team work and more.
+
 ### Personality Traits
 - Communication
 - Adaptable.
@@ -24,17 +33,11 @@ Lakshmi Prasanna Jalla
 + Role- Analyst
 + Description - In this project we enhanced the accuracy of stock prediction.
 
-### Work Experience
-> Worked as an intern at Lernx for the role Human Resource Manager for a month.
-> Eventhough the duration of the internship is less it helps me alot to gain knowledege in different areas like Managing the team, Communicating in team work and more.
-
 ### Certifications
 - Certified in Big Data Computing by NPTEL
 - Certified in Cloud Computing by NPTEL
 - Certified in Introduction to HTML by Coursera
-### Social URLs
-+[linkedin](https://www.linkedin.com/in/jalla-lakshmi-prasanna/)
-+[github](https://github.com/lakshmiprasannajalla/lakshmiprasannajalla/edit/main/README.md)
+
 
 
 <!--
