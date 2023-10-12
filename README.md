@@ -6,9 +6,9 @@ Lakshmi Prasanna Jalla
 +[profile](https://C:\Users\laksh\Downloads\profile.jpg)
 ### Digital Presence
 
-[linkedin](https://www.linkedin.com/in/jalla-lakshmi-prasanna/)
-[github](https://github.com/lakshmiprasannajalla/lakshmiprasannajalla/edit/main/README.md)
-###About Me
++ [linkedin](https://www.linkedin.com/in/jalla-lakshmi-prasanna/)
++ [github](https://github.com/lakshmiprasannajalla/lakshmiprasannajalla/edit/main/README.md)
+### About Me
 > I am a fresher looking for an opportunity to enhance my knowledge and skills and make myself and company benefical and successful.
 > 
 ### Work Experience
