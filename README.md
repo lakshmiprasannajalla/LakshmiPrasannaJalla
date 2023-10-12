@@ -20,9 +20,9 @@ Lakshmi Prasanna Jalla
 - Java
 ### Projects
 ## Prediction of Stock Market Using Machine Learning through LSTM-RNN
-> Team Size-4
-> Role- Analyst
-> Description - In this project we enhanced the accuracy of stock prediction.
++ Team Size-4
++ Role- Analyst
++ Description - In this project we enhanced the accuracy of stock prediction.
 
 ### Work Experience
 > Worked as an intern at Lernx for the role Human Resource Manager for a month.
